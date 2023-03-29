@@ -7,7 +7,7 @@ OUTPUT_PATH=GW190421_213856_inference.hdf
 
 # the following sets the number of cores to use; adjust as needed to
 # your computer's capabilities
-NPROCS=30
+NPROCS=50
 
 # run sampler
 # Running with OMP_NUM_THREADS=1 stops lalsimulation
